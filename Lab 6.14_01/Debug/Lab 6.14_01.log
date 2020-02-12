@@ -1,0 +1,4 @@
+﻿  Lab 6.14_01.cpp
+C:\Users\Eduardo\source\repos\Steph's\Lab 6.14_01\Lab 6.14_01\Lab 6.14_01.cpp(7,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Eduardo\source\repos\Steph's\Lab 6.14_01\Lab 6.14_01\Lab 6.14_01.cpp(14,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab 6.14_01.vcxproj -> C:\Users\Eduardo\source\repos\Steph's\Lab 6.14_01\Debug\Lab 6.14_01.exe
